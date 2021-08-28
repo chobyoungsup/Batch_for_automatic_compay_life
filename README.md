@@ -1,2 +1,2 @@
 # batch
-for automatic life
+### These are batch files for automating work in the company.
