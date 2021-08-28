@@ -1,1 +1,2 @@
 # batch
+for automatic life
