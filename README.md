@@ -14,6 +14,9 @@
 ```
       - PC포맷 시 파일들을 백업해주는 배치파일이다.
 ```
-
+#### 3. Setting static IP and DNS (filename : IPandDNS_Setting.bat)
+```
+      - 
+```
 ###### ... 계속해서 업데이트할 예정입니다 ...
 ***
