@@ -8,5 +8,6 @@ echo f | xcopy "C:\Windows\system32\winevt\Logs\System.evtx" "%desDir%%todayDate
 set desDir=
 set todayDate=
 
-
 #add pc !!!!
+#add web work...
+
